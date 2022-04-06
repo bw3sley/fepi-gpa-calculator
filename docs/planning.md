@@ -31,11 +31,11 @@ As pessoas que irão interferir diretamente nos commits e push do código será 
 | Ferramenta | Funcionalidade |
 | :----------: | :---------: |
 | [GitHub](https://github.com/) | Utilizado para versionamento e deploy do projeto |
-| [Figma]() | Utilizado para prototipagem do projeto |
+| [Figma](https://www.figma.com/) | Utilizado para prototipagem do projeto |
 | [Discord](https://discord.com/) | Utilizado para comunicação da equipe |
-| [Visual Studio Code]() | Utilizado para desenvolvimento do código do projeto |
-| [Unsplash]() | Utilizado como fonte de fotos |
-| [LucidChart]() | Utilz
+| [Visual Studio Code](https://code.visualstudio.com/) | Utilizado para desenvolvimento do código do projeto |
+| [Unsplash](https://unsplash.com/) | Utilizado como fonte de fotos |
+| [LucidChart](https://www.lucidchart.com/pages/) | Utilzado para criação de Use cases
 
 </center>
 
