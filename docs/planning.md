@@ -1,7 +1,7 @@
 # Planejamento
 
 ## Proposta do projeto
-Desenvolver um aplicativo que auxila os alunos de uma faculdade no cálculo de notas simestrais. Você consegue baixar o documento do projeto <a href="../uploads/Modelagem de um Sistema.docx">clicando aqui</a>.
+Desenvolver um aplicativo que auxila os alunos de uma faculdade no cálculo de notas semestrais. Você consegue baixar o documento do projeto <a href="../uploads/Modelagem de um Sistema.docx">clicando aqui</a>.
 
 ## Cronograma
 A partir dos prazos estipulados pela disciplina e pela disponibilidade dos integrantes, o grupo organizou um cronograma com o intuito de realizar as tarefas propostas no projeto.
@@ -35,7 +35,7 @@ As pessoas que irão interferir diretamente nos commits e push do código será 
 | [Discord](https://discord.com/) | Utilizado para comunicação da equipe |
 | [Visual Studio Code](https://code.visualstudio.com/) | Utilizado para desenvolvimento do código do projeto |
 | [Unsplash](https://unsplash.com/) | Utilizado como fonte de fotos |
-| [LucidChart](https://www.lucidchart.com/pages/) | Utilzado para criação de Use cases
+| [LucidChart](https://www.lucidchart.com/pages/) | Utilizado para criação de Use cases
 
 </center>
 
