@@ -1,0 +1,27 @@
+site_name: My Docs
+theme:
+  logo: https://cdn-icons-png.flaticon.com/512/2374/2374370.png
+  favicon: https://cdn-icons-png.flaticon.com/512/2374/2374370.png
+  name: material
+  language: "pt"
+  features:
+    navigation.top
+    - navigation.sections
+    - toc.integrate
+
+  palette:
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
