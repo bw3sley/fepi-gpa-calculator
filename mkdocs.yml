@@ -25,3 +25,27 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
+nav:
+  - Sobre: index.md
+  - Planejamento: planning.md
+  - Levantamento de Requisitos:
+    - Técnicas:
+      - Brainstorming: requirements/brainstorming.md
+      - MoSCoW: requirements/moscow.md
+    - Personas: requirements/personas.md
+    - Requisitos Levantados: requirements/requirements.md
+  - Modelagem de requisitos:
+    - Caso de Uso: requirements/use-case.md
+
+plugins:
+  - search:
+      lang: pt
+      lang: en
+
+copyright: Copyright &copy; 2022 Wesley Bernardes
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/bw3sley
+      name: bw3sley on GitHub
