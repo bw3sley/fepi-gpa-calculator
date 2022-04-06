@@ -1,1 +1,10 @@
 site_name: My Docs
+theme:
+  logo: https://cdn-icons-png.flaticon.com/512/2374/2374370.png
+  favicon: https://cdn-icons-png.flaticon.com/512/2374/2374370.png
+  name: material
+  language: "pt"
+  features:
+    navigation.top
+    - navigation.sections
+    - toc.integrate
