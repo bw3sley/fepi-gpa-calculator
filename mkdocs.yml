@@ -42,10 +42,13 @@ plugins:
       lang: pt
       lang: en
 
-copyright: Copyright &copy; 2022 Wesley Bernardes
+copyright: Copyright &copy; 2022 Wesley & Lucas
 
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/bw3sley
       name: bw3sley on GitHub
+    - icon: fontawesome/brands/github
+      link: https://github.com/loskafaria1757
+      name: loskafaria1757 on GitHub

@@ -12,21 +12,53 @@ O conjunto de casos de uso representa todas as possíveis interações que serã
 
 ## Descrição dos casos de uso
 
-### Caso 1: 
+### Caso 1: Salvar notas
 <center>
 
-| Caso | Detalhamento |
-| :--: | :----------: |
-| Descrição | |
-| Ator(res) | |
-| Pré-condições | |
-| Fluxo | |
-| Pós-condições | |
-| Rastreabilidade | |
+| Caso 1 | Detalhamento |
+| :--: | :----------: | 
+| Descrição |Ao acessar a tela inicial do aplicativo, o ator conseguir visualizar o menu para manuseio de sua nota. | 
+| Ator(res) | Usuário| 
+| Pré-condições | O ator deve ter como acessar o aplicativo. O ator deve ter pelo menos uma nota para começar o manuseio. | 
+| Fluxo | 1. O ator precisa abrir o aplicativo 2. O ator precisa entrar no menu de manuseio. 3.  O ator precisa escolher o que fazer com a nota. | 
+| Pós-condições | O ator poderá ter visualizado todas as informações relacionadas ao nome |
+| Rastreabilidade |RF01 RF02 RF03 RF04 | 
 
 </center>
 
-<figcaption style="text-align: center">Tabela 1 - Caso 1</figcaption>
+<figcaption style="text-align: center">Tabela 1 - Caso 1 - Salvar notas</figcaption>
+
+### Caso 2: Status Notas
+<center>
+
+| Caso 2 | Detalhamento |
+| :--: | :----------: | 
+| Descrição |Ao acessar a tela inicial do aplicativo, o ator conseguir visualizar o menu para status de sua nota. | 
+| Ator(res) | Usuário| 
+| Pré-condições | O ator deve ter como acessar o aplicativo. O ator deve ter pelo menos uma nota para começar o manuseio. | 
+| Fluxo | 1 - O ator precisa abrir o aplicativo 2. O ator precisa entrar em status. | 
+| Pós-condições |O ator terá visto status de sua nota.| 
+| Rastreabilidade |RF05 RF06 | 
+
+</center>
+
+<figcaption style="text-align: center">Tabela 2 - Caso 2 - Status Notas</figcaption>
+
+### Caso 3: Sobre Nós
+<center>
+
+| Caso 3 | Detalhamento |
+| :--: | :----------: | 
+| Descrição |Ao acessar a tela inicial do aplicativo, o ator conseguir visualizar sobre o sistema. | 
+| Ator(res) | Usuário| 
+| Pré-condições | O ator deve ter como acessar o aplicativo. | 
+| Fluxo | 1. O ator precisa abrir o aplicativo 2. O ator precisa entrar em Sobre Nós. | 
+| Pós-condições | Ator poderá ter acesso ao projeto sobre o desenvolvimento do Sistema.|
+| Rastreabilidade |RF07 | 
+
+</center>
+
+<figcaption style="text-align: center">Tabela 3 - Caso 3 - Sobre Nós</figcaption>
 
 ## Referências e Bibliografias
 > SOMMERVILLE, Ian. Engenharia de Software. 9.ed. São Paulo: Pearson Prentice Hall, 2011. 529 p.

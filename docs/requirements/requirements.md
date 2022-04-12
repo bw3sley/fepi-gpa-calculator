@@ -7,9 +7,15 @@ Podemos dizer que é considerado um requisito funcional, todo cenário onde o us
 
 <center>
 
-| Identificação | Descrição | Técnica utilizada | Priorização dos requisitos |
-| :-----------: | :-------: | :----------------: | |
-| RF01 | | Brainstorming |
+| Identificação | Requisito |Técnica utilizada| Prioridade | 
+| :-----------: | :-------: |:-------: |  :-------: |
+|  RF01  | Usuário deve conseguir salvar suas notas |Brainstorming | Essencial |
+| RF02  | Usuário deve conseguir ver suas notas | Brainstorming| Importante | 
+| RF03  | Usuário deve conseguir alterar suas notas |Brainstorming | Importante | 
+| RF04  | Usuário deve conseguir deletar suas notas |Brainstorming | Importante |
+| RF05  | Usuário deve conseguir consultar status de notas de todas matérias | Brainstorming | Essencial | 
+| RF06  | Usuário deve conseguir consultar status de notas por matéria | Brainstorming | Essencial |
+| RF07  | Usuário deve conseguir consultar sobre informações do Sistema | Brainstorming | Desejável |
 
 </center>
 
@@ -20,10 +26,11 @@ Requisitos não-funcionais são os requisitos relacionados ao uso da aplicação
 
 <center>
 
-| Identificação | Descrição | Técnica utilizada | Priorização dos requisitos |
-| :-----------: | :-------: | :----------------: | |
-| RF01 | | Brainstorming | | |
+| Identificação | Requisito | Técnica utilizada | 
+| :-----------: | :-------: | :-------: |   
+| RFN01 | O Sistema deve possuir uma boa usabilidad | Brainstorming |
+| RFN02  | O Sistema deve possuir filtros de pesquisa | Brainstorming |
 
 </center>
 
-<figcaption style="text-align: center">Tabela 1 - Requisitos não funcionais</figcaption>
+<figcaption style="text-align: center">Tabela 2 - Requisitos não funcionais</figcaption>
