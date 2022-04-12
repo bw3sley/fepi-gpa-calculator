@@ -36,6 +36,9 @@ nav:
     - Requisitos Levantados: requirements/requirements.md
   - Modelagem de requisitos:
     - Caso de Uso: requirements/use-case.md
+  - Protótipo: 
+    - Wireframe: prototype/wireframe.md
+    - Protótipo alta fidelidade: prototype/prototype.md
 
 plugins:
   - search:

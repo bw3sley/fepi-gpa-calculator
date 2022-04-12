@@ -1,0 +1,2 @@
+# Wireframe
+Podemos definir wireframe como um esqueleto, um protótipo ou uma versão bastante primitiva do visual de um projeto. Ele consiste na representação da diagramação e das estruturas macro do site, ou seja, apresentamos por meio de formas geométricas e linhas como pensamos a divisão da interface em seções.
