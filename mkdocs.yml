@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Be The Hero
 theme:
   logo: https://cdn-icons-png.flaticon.com/512/2374/2374370.png
   favicon: https://cdn-icons-png.flaticon.com/512/2374/2374370.png
@@ -12,17 +12,17 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
-      primary: green
-      accent: light green
+      primary: indigo
+      accent: light blue
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-4
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)" 
       scheme: slate
-      primary: green
-      accent: light green
+      primary: indigo
+      accent: light blue
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-7
         name: Switch to light mode
 
 nav:
@@ -52,3 +52,6 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/loskafaria1757
       name: loskafaria1757 on GitHub
+
+extra_css:
+  - stylesheets/extra.css
