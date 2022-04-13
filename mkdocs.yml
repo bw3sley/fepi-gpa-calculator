@@ -1,4 +1,8 @@
 site_name: Be The Hero
+
+repo_url: https://bw3sley.github.io/gpa-calculator/
+repo_name: "GPA Calculator"
+
 theme:
   logo: assets/logo.svg
   favicon: assets/logo.svg
