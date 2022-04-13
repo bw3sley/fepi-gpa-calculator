@@ -10,6 +10,12 @@ O conjunto de casos de uso representa todas as possíveis interações que serã
 
 ## Caso de uso geral
 
+<center>
+
+<div style="width: 960px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:960px; height:480px" src="https://lucid.app/documents/embeddedchart/3c39240a-5c82-4739-a93a-5839c6e8c5d4" id="lNK-hjTptCpO"></iframe></div>
+
+</center>
+
 ## Descrição dos casos de uso
 
 ### Caso 1: Salvar notas
