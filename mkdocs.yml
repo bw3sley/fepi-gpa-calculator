@@ -21,31 +21,23 @@ extra_css:
 
 nav:
   - Sobre: index.md
-  - Planejamento: planning.md
-  - Levantamento de Requisitos:
-    - Técnicas:
-      - Brainstorming: requirements/brainstorming.md
-      - MoSCoW: requirements/moscow.md
-    - Personas: requirements/personas.md
-    - Requisitos Levantados: requirements/requirements.md
-  - Modelagem de requisitos:
-    - Caso de Uso: requirements/use-case.md
-  - Protótipo: 
+  - Planejamento: 
+    - Plano de negócios: planning/planning.md
+    - Análise de requisitos, regras de negócio e modelagem do projeto:
+        - Requisitos e regras de negócio: requirements/requirements.md
+        - Modelagem do projeto: requirements/use-case.md
+    - Tecnologias e ferramentas: technical-tools/technical-tools.md
+  - Prototipagem: 
     - Wireframe: prototype/wireframe.md
     - Protótipo alta fidelidade: prototype/prototype.md
+  - Testes do aplicativo: 
+    - Resultado dos testes: app-testing/app-testing.md
+  - Guia do usuário:
+    - Páginas: user-document/user-document.md
 
 plugins:
   - search:
       lang: pt
       lang: en
 
-copyright: Copyright &copy; 2022 Wesley & Lucas
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/bw3sley
-      name: bw3sley on GitHub
-    - icon: fontawesome/brands/github
-      link: https://github.com/loskafaria1757
-      name: loskafaria1757 on GitHub
+copyright: Copyright &copy; 2023 Wesley & Lucas & Lívia
