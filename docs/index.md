@@ -8,9 +8,9 @@ Caso necessário, o documento do projeto pode ser baixado para consulta mais det
 
 | Foto | Nome | GitHub | Email |
 | :----: | :----: | :------: | :-----: |
-| <img src="https://github.com/bw3sley.png" width="36px" height="36px" style="border-radius: 4px;"> | Wesley Bernardes | [bw3sley](https://github.com/bw3sley) | <a href="mailto:bw3sley@gmail.com">00020321@fepi.edu.br</a> |
-| <img src="https://github.com/loskafaria1757.png" width="36px" height="36px" style="border-radius: 4px;"> | Lucas Geraldo | [LoskaFaria1757](https://github.com/LoskaFaria1757) |  <a href="mailto:lucasfarialf1757@gmail.com">00019790@fepi.edu.br</a> |
-| <img src="https://github.com/liviaolivf.png" width="36px" height="36px" style="border-radius: 4px;"> | Lívia Oliveira | [liviaolivf](https://github.com/liviaolivf.png) | <a href="mailto:lucasfarialf1757@gmail.com">00020451@fepi.edu.br</a> |
+| <img src="https://github.com/bw3sley.png" width="36px" height="36px" style="border-radius: 4px;"> | Wesley Bernardes | [bw3sley](https://github.com/bw3sley) | <a href="mailto:00020321@fepi.edu.br">00020321@fepi.edu.br</a> |
+| <img src="https://github.com/loskafaria1757.png" width="36px" height="36px" style="border-radius: 4px;"> | Lucas Geraldo | [LoskaFaria1757](https://github.com/LoskaFaria1757) |  <a href="mailto:00019790@fepi.edu.br">00019790@fepi.edu.br</a> |
+| <img src="https://github.com/liviaolivf.png" width="36px" height="36px" style="border-radius: 4px;"> | Lívia Oliveira | [liviaolivf](https://github.com/liviaolivf) | <a href="mailto:00020451@fepi.edu.br">00020451@fepi.edu.br</a> |
 
 </center>
 
